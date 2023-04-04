@@ -1,0 +1,2 @@
+# shynatoko
+ini toko
